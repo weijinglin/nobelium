@@ -3,8 +3,8 @@ const BLOG = {
   author: 'Linyu',
   email: 'wellion77777@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: '浮云一别后，流水十年间',
-  lang: ['en-US', 'zh-CN'],
+  description: "This is Linyu's Blog",
+  lang: ['zh-CN'],
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
